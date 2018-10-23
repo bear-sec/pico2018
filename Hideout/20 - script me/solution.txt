@@ -1,0 +1,4 @@
+We connect to the supplied address and find a greeting with some rules and an example of how to solve the equations give there. I couldnt pin point an exact algorithm but from the rules and examples we need to write something (in python maybe?), to solve these equation. So i did it, and chose to write a recursive function that adds the parts together from left to right cause that was easier to implement. 
+The function basically tries to find which part should "eat" the other, based upon the depth of the brackets. 
+My first try was to just count the number of adjacent brackets, so for example '((())(())())' vs '((()))' would result in right to eat left, since left has 2 bracket on the right side, and left has 3. but in fact that need to be added up, cause the depth of brackets on the left side is 3.
+I realized my mistake when the second to last stage had slightly more involved cases, that my script couldnt solve, so i turned to the drawing board again.

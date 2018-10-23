@@ -1,0 +1,5 @@
+From what the question said we just need to convert from hexadecimal to ascii and submit in the format they want.
+
+Python:
+
+print "picoCTF{%c}" % 0x41

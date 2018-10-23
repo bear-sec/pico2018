@@ -1,0 +1,5 @@
+Can you find the flag in this file [1]  without actually running it? You can also find the file in /problems/strings_0_bf57524acf558aca2081eb97ece8e2ee on the shell server.
+
+Hints:
+
+(1) strings [2] 

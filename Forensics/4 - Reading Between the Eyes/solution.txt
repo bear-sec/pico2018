@@ -1,0 +1,2 @@
+in this challenge we get an image and not much data besides that. its said that theres amessage hidden in the image, so the first thing to do is try and see if we can easily extract data from LSB. ive chose to use my favorite tool for steganography, which is stegsolve. 
+we can right away see that in each color, the 0 bit plane has some data in the beginning and then its 0. so we extract 0 plane from all the planes, and get the ascii string of the flag

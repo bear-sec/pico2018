@@ -1,0 +1,5 @@
+What does asm1(0x76) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. Source located in the directory at /problems/assembly-1_0_cfb59ef3b257335ee403035a6e42c2ed.
+
+Hints:
+
+assembly conditions

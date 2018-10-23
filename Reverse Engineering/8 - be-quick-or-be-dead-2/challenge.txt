@@ -1,0 +1,6 @@
+As you enjoy this music even more, another executable be-quick-or-be-dead-2 shows up. Can you run this fast enough too? You can also find the executable in /problems/be-quick-or-be-dead-2_3_bc41c1e2cd88c0e9d8a8d0cb851f91e9.
+
+Hints:
+
+Can you call stuff without executing the entire program?
+What will the key finally be?

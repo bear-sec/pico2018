@@ -1,0 +1,5 @@
+Can you find the flag in file [1] ? This would be really obnoxious to look through by hand, see if you can find a faster way. You can also find the file in /problems/grep-1_1_35b9930ca897512a4d00b43d26eac73d on the shell server
+
+Hints:
+
+(1) grep tutorial [2] 

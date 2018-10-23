@@ -1,0 +1,2 @@
+The title of the challenge suggests grepping the flag, from the file provided,
+ive just searched for picoCTF with npp.

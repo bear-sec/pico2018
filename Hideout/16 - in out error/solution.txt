@@ -1,0 +1,2 @@
+The challenge says that there is an error in the stdout and err in the file. so we run and see what we get.
+we see that we have a mishmash of the output. so i tried to print just the stdout by redirecting stderr to /dev/null, and we get the lyrics of an interesting song. then we try redirecting output to /dev/null nad we get the flag a bunch of times.

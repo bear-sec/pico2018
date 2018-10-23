@@ -1,0 +1,2 @@
+We get a pcap and we need to "say its name". In the hints, we see that we need to translate an IP. so first thing i tried is to extract all of the ips, and run a dns query for each one, done with python.
+this didt reveal any obvious solution, so i figured i needed to check the pcap by hand, and as easy as that, filtering by DNS, revealed the answer. 

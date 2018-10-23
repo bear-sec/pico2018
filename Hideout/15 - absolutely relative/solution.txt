@@ -1,0 +1,2 @@
+We download the supplied files, an ELF executable file, and his source code. we can right away see that in the source code, the executable checks the 'permissions.txt' file that must be in the folder youre in. So we can create a file named 'permissions.txt' in out home folder, cd there, and run the program. which will check the 'permissions.txt' file from our folder.
+Since we control the contents of the file, we just write "yes" there and we pass the check at line 30.

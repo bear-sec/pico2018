@@ -1,0 +1,1 @@
+in this challenge we receive a filesystem that is as stated corrupt. First thing is to check whats corrupt, so we try fsck, and see that the magic header is corrupt, we find where it should be and write it with dd. now we can mount the FS and look through files. we dump all the files and get some files in one of the mthe flag.

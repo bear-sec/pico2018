@@ -1,0 +1,3 @@
+Visiting the page and scrolling down you find the flag on the page: 
+
+picoCTF{xiexie_ni_lai_zheli}

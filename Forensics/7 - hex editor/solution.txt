@@ -1,0 +1,1 @@
+In this challenge we get another image file and we need to find the secret. since the challenges name is hex-editor, i opened the image file in my favorite hex editod, and searched for pico, and found the flag in the raw bytes.

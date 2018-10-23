@@ -1,0 +1,5 @@
+This Online Roulette [1]  Service is in Beta. Can you find a way to win $1,000,000,000 and get the flag? Source [2] . Connect with nc 2018shell1.picoctf.com 25443
+
+Hints:
+
+(1) There are 2 bugs!

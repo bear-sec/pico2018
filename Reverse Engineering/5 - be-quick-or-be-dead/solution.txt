@@ -1,0 +1,15 @@
+first thing is we check whats in main, and we see 4 consecutive calls to 4 funtions: header, set_timer, get_key, print_flag.
+running the app just hangs, and reaches a timeout that was set presumably in set_timer so we will need to avoid that, or just fix the hanging.
+lets see whats in header:
+
+just printing the title of the challenge.
+set_timer sets the function alarm_handler to run after 1 second and terminate the program, we can skip this call by patching the program.
+get_key is where the program hangs, so lets investimagate. (Investimagate, verb: to investigate, but with the added implication of shenanigans to be had)
+inside the function theres a function call to calculate_key, maybe this is what hanging the program, lets see whats inside. 
+a loop while var_4 < 0xdfea967a, it adds one to it. *sigh*
+we can set cs:key global var to 0xdfea967a and skip the call to it.
+doing so gives us the flag.
+Lets implement this in gdb, but first create a checklist of what we need to do so that the program will run:
+- skip set_timer in main
+- skip calculate_key
+- set cs:key = 0xdfea967a in get_key

@@ -1,0 +1,4 @@
+In the main function we see a call to do_magic
+this function loops through our input whicis stored in s, and some hardcoded byte array, and xors each byte at a time. 
+presumably the correct input is these arrays xored.
+lets write a script that solves this.

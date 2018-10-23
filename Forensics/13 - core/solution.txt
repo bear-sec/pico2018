@@ -1,0 +1,5 @@
+we get a program and its core dumped as it says "...was about to print the flag..." so we know we need to somehow analyze the program and the coredump. we will use gdb for that. 
+First thing we need to see how to work with coredumps in gdb.
+So we dump the files into our linux machine and begin the analysis.
+first we check where the program crashed. we see thats its at address 0x80487c1, which is beginnig of print_flag function. so we disassemble the function and see what it does.
+We see that it loads an addresds into eax, and passes it to prints as second parameter, and the formatted string is ""your flag is: picoCTF{%s}\n", so the address is the flag. We resolve it and get that its at offset 0x14e4 from 0x804a080. which is an address, and not a string. we dereference it and print, and get the flag.

@@ -1,0 +1,5 @@
+Can you understand the language and answer the questions to retrieve the flag? Connect to the service with nc 2018shell1.picoctf.com 8672
+
+Hints:
+
+(1) Maybe try writing a python script?

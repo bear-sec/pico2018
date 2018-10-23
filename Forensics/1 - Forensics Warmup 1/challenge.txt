@@ -1,0 +1,5 @@
+Can you unzip this file for me and retreive the flag?
+
+Hints:
+
+Make sure to submit the flag as picoCTF{XXXXX}

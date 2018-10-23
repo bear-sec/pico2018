@@ -1,0 +1,5 @@
+In this challenge, as soon as we ls the challenge directory, we see that theres a file there with the name "." so we resort to the manpage of ls as suggested and see that theres this option:
+
+	-Q, --quote-name
+              enclose entry names in double quotes
+Which runnig gives us that the file name is actually ".  ", and we can simply 'cat' is.

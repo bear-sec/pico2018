@@ -1,0 +1,1 @@
+We are presented with a .dd file which is a bit-to-bit copy of a some raw data sector. The challenge also says that there are a bunch of animals, maybe pictures? so we use foremost to carve out image file types. and we fing a folder of jpg's with some animals, and in this folder a picture of a flag.

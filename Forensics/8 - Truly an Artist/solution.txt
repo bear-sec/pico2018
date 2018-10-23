@@ -1,0 +1,1 @@
+Another image in this category, this time the flag is in the meta-material, and for images its exif data. so throw the image in any online exif viewer, and the flag is in the author.

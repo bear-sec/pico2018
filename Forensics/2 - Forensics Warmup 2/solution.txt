@@ -1,0 +1,1 @@
+we get a png file that as the challenge says we cant open, but just double clicking it reveals the flag, and we can write it down and submit.

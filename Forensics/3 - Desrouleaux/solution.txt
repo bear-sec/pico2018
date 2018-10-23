@@ -1,0 +1,1 @@
+as we connect to the supplied port, we get a prompt for some questions, each question is based on the json file, so i wrote a few lines of code for each question. mind that each time the addresses are different.

@@ -1,0 +1,1 @@
+Inside the data pcap file, we see http traffic. we see that the first login is for a regular user, and then theres another login with the admin user. 

@@ -1,0 +1,4 @@
+we follow the program wiht the supplied arguments.
+first the code stores the arguments in some local variables, then it unconditionally jumps to part_b.
+prat_b checks if arg_1(0x4) is less than 7561 and if not it adds 100 to arg_1 and 1 to local1 which it returns.
+i have transfered this assembly code to python and ran it, the result is  a flag.

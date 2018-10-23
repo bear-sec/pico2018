@@ -1,0 +1,9 @@
+They dont provide the flag file but they do send you to a folder on the challenges server. 
+In that directory we have a folder named files
+and in the folder there are some folders, with each one containing some files.
+This instantly means we need to somehow find the flag in all of the files, and of course not file by file.
+This means we need to RTFM of the suggested command 'grep':
+from grep man pages: "-R, -r, --recursive
+	              Read all  files  under  each  directory,  recursively;  this  is
+        	      equivalent to the -d recurse option."
+so we try in our shell and get the flag

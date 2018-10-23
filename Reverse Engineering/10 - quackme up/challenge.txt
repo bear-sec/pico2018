@@ -1,0 +1,5 @@
+The duck puns continue. Can you crack, I mean quack this program as well? You can find the program in /problems/quackme-up_1_6511dc9aa02307b2cc53c5dd9fdfdc75 on the shell server.
+
+Hints:
+
+(no hints)

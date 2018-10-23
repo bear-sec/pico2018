@@ -1,0 +1,6 @@
+in this challenge we get an image with some data hidden in it. as the hints say, its LSB steganography and they said not to just extract and represend as ascii data, rather check if it checks out if we look at the bit sequence from index 1.
+Lets try writing some python code to solve it.
+we see that we get the flag at offset 4, but were missing some data.
+Back to the image file in a hex editor, we see that the data starts at offset 0x37, so we set this as the start.
+and maybe sooner, so lets set 0x30.
+and voila, we ge tthe flag

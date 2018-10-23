@@ -1,0 +1,5 @@
+Can you utlize stdin, stdout, and stderr to get the flag from this program [1] ? You can also find it in /problems/in-out-error_4_c51f68457d8543c835331292b7f332d2 on the shell server
+
+Hints:
+
+(1) Maybe you can split the stdout and stderr output?

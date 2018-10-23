@@ -1,0 +1,5 @@
+Simple base conversion:
+
+Python:
+
+print "picoCTF{%d}" % 0x3d

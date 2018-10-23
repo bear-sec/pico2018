@@ -1,0 +1,5 @@
+We started a little store [1] , can you buy the flag? Source [2] . Connect with 2018shell1.picoctf.com 10740.
+
+Hints:
+
+(1) Two's compliment can do some weird things when numbers get really big!

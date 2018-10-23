@@ -1,0 +1,1 @@
+We connect to the supplied port and were greeted with a message explaining the challenge. We need to convert numbers in some unknown base to ascii word and supply it back to the socket. For the sake of this challenge ive created a script that waits my input, (which will be the numbers) and returns each time the output from the relevant function for that stage.

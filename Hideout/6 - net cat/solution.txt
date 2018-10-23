@@ -1,0 +1,1 @@
+Using netcat we connect to the supplied address and receive the flag.

@@ -1,0 +1,8 @@
+This program was about to print the flag when it died. Maybe the flag is still in this core file that it dumped? Also available at /problems/core_0_28700fe29cea151d6a3350f244f342b2 on the shell server.
+
+Hints:
+
+What is a core file?
+You may find this reference helpful.
+Try to figure out where the flag was read into memory using the disassembly and strace.
+You should study the format options on the cheat sheet and use the examine (x) or print (p) commands. disas may also be useful.

@@ -1,0 +1,4 @@
+In this challenge, similar to the previous one, we get a program that hangs for a bit and is terminated by an alarm.
+Lets disassemble the code and see whats going on.
+As the previous challenge goes, the code flow is the same, except the set_timer, sets the timer for 3 seconds, and the get_key function that we will address soon.
+as with the previous challenge 

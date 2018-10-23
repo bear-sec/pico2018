@@ -1,0 +1,1 @@
+Not much to this one, just running env in the competition shell and grepping the flag format yields the answer.

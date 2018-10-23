@@ -1,0 +1,9 @@
+We salvaged a ruined Ext SuperMagic II-class mech recently and pulled the filesystem out of the black box. It looks a bit corrupted, but maybe there's something interesting in there. You can also find it in /problems/ext-super-magic_1_c544657e659accef770d3f2bc8384a8c on the shell server.
+
+Hints:
+
+Are there any tools for diagnosing corrupted filesystems? What do they say if you run them on this one?
+How does a linux machine know what type of file a file is?
+You might find this doc helpful.
+Be careful with endianness when making edits.
+Once you've fixed the corruption, you can use /sbin/debugfs to pull the flag file out.

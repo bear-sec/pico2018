@@ -1,0 +1,1 @@
+so just running the program gives out the flag.

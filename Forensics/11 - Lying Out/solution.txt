@@ -1,0 +1,1 @@
+we get a picture of some traffic graph that we need to answer some question based upon. as we connect to the port, we receive some questions based on the data supplied, answering them correctly gets the flag. 

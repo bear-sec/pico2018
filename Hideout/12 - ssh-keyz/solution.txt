@@ -1,0 +1,1 @@
+Generating the ssh key pair, and copying the public key through the web shell solves this challenge, and you can see that you get the flag each time you login via ssh.

@@ -1,0 +1,2 @@
+The solution to this challenge we basically found in the previous challenge, with minor changes we can solvethis one also. So we see from the source code that the calcultaion of the cost if 1000*how_much_fake_flags_we_want so what if we want a whole lot of fake flags, enough to make this number negative and add us money with the identity x-(-y) = x+y.
+so we just try and buy (2**32)/1000 flags, and indeed we see that our cost is -269, so we increase the amount and try again. and voila!

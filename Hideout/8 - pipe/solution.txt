@@ -1,0 +1,2 @@
+The challenge name suggest you need to pipe the output after connecting with netcat and searching for the flag. 
+As you can see ive tried connecting without piping the output before running the command.

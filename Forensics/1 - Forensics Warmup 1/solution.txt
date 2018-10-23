@@ -1,0 +1,1 @@
+the supplied file is a zip archive, and by just opening the archive we find a picture that has the flag, we can submit it.

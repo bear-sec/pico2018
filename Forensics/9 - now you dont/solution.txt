@@ -1,0 +1,2 @@
+from the description and hints we can undestand that we must search for some hidden image, and again with stegsolve, since this will be in the red plane, we search for it in that plane. we see right away that its in the 1 and 0 bit plane. 
+side note, we could solve this by some random color map that inverts some shades to others randomly, and see it, as shown here.

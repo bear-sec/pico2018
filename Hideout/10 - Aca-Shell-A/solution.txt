@@ -1,0 +1,6 @@
+In this challenge we use netcat to connect to some sort of a restricted shell since many of the linux commands are just not recognized. 
+We get a greeting message that explains us that someone is working with us, so we will just look around.
+Running ls gives the folders where we are in the moment. 
+secret look interesting, so we cd to it and the voice with us tells us to remove the intel files, so we follow it. The voice says he dropped us an exploit, which we can run.
+The voice asks us to show the username were on, and copy a file from the tmp directory and read it.
+This prints the flag.
